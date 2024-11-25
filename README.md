@@ -10,3 +10,4 @@
 - Ladbroke Grove
 - Westbourne Park
 - Royal Oak
+- Paddlngton
